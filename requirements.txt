@@ -1,6 +1,0 @@
-streamlit
-streamlit_gsheets
-st_gsheets_connection
-GSheetsConnection
-plotly
-pandas
